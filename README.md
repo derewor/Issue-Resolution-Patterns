@@ -6,7 +6,7 @@
 #### Tools
 #### Usage
 #### Project Structure
-#### Results
+#### Analysis and Results
 #### Author/s 
 
 ### Project Objective
@@ -23,5 +23,5 @@ Analyzed Data:\ This folder contains data used for creating graphs in the result
 Results:\ This folder contains the analysis, interpretation and recomendations from the analysis.
 src:\ This folder contains the google colab file with an active code.
 
-### Results
-
+### Analysis and Results
+* Imported and cleaned 400k rows of data containing Slack messages, reactions, departments, and locations from GCP.
