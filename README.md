@@ -28,7 +28,7 @@ src:\ This folder contains the google colab file with an active code.
 * Revealed widespread message clarity issues, with 35% of messages sent by the department having Flesch readability scores below 71, indicating moderate comprehension challenges.
 * Discovered concerning engagement patterns with social communications, as 40-50% of non-task-related messages sent by the CS department received no response. However, only 18% of messaged targeted to the CS department reamined unresponded.
 
-<img width="170" alt="Screenshot 2025-06-10 at 11 57 08" src="https://github.com/user-attachments/assets/7059f375-c749-440d-9701-aed3936eb8d6" />
+<img width="394" alt="Screenshot 2025-06-10 at 12 00 34" src="https://github.com/user-attachments/assets/818fc880-fabd-408d-9070-3b3dc5d6e41a" />
 
 
 
