@@ -10,4 +10,10 @@
 #### Author/s 
 
 ### Project Objective
-To investigate the communication pattern of the customer success (CS) department within and with customers to identify efficiency gaps and improvement opportunities
+To investigate the communication pattern of the customer success (CS) department within and with customers to identify efficiency gaps and improvement opportunities.
+
+### Tools
+Google colab, pandas, matplotlib, seaborn, Notion, googlesheet,AI tools
+
+
+
