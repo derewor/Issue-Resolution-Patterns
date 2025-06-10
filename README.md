@@ -9,11 +9,5 @@
 #### Data analysis and Results
 #### Author/s 
 
-
-
-
-
-
-
-## Objective
+### Project Objective
 To investigate the communication pattern of the customer success (CS) department within and with customers to identify efficiency gaps and improvement opportunities
