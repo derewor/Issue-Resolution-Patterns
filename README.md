@@ -5,10 +5,9 @@
 #### Project Objective
 #### Tools
 #### Usage
-### Project Structure
-### Data analysis and Results
-### Author/s 
-### Acknowledgments
+#### Project Structure
+#### Data analysis and Results
+#### Author/s 
 
 
 
