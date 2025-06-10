@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-### Project Objective
-### Tools
-### Usage
+#### Project Objective
+#### Tools
+#### Usage
 ### Project Structure
 ### Data analysis and Results
 ### Author/s 
