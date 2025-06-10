@@ -1,4 +1,6 @@
-# Table of Contents
+# Issue-Resolution-Patterns
+
+## Table of Contents
 
 ### Project Objective
 ### Tools
@@ -8,8 +10,8 @@
 ### Author/s 
 ### Acknowledgments
 
-# Issue-Resolution-Patterns
-Investigation of the issue resolution patters of there departments CS, R&amp;D and M&amp;S
+
+
 
 
 
