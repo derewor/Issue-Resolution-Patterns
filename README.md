@@ -35,6 +35,10 @@ src:\ This folder contains the google colab file with an active code.
 <img width="461" alt="Screenshot 2025-06-10 at 12 03 58" src="https://github.com/user-attachments/assets/b09ed57b-4b16-4acb-b806-34154c2b08ab" />
 
 
+### Authors
+Dereje W. Mekonnen and Poornima 
+email: derewor@gmail.com
+LinkedIn: https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
 
 
 
