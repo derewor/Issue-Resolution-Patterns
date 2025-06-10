@@ -27,8 +27,9 @@ src:\ This folder contains the google colab file with an active code.
 * Imported and cleaned 400k rows of data containing Slack messages, reactions, departments, and locations from GCP.
 * Revealed widespread message clarity issues, with 35% of messages sent by the department having Flesch readability scores below 71, indicating moderate comprehension challenges.
 * Discovered concerning engagement patterns with social communications, as 40-50% of non-task-related messages sent by the CS department received no response. However, only 18% of messaged targeted to the CS department reamined unresponded.
-   
-#### ![image](https://github.com/user-attachments/assets/fd57b089-1273-48ad-9841-e5849f5427f7)
+
+<img width="170" alt="Screenshot 2025-06-10 at 11 57 08" src="https://github.com/user-attachments/assets/7059f375-c749-440d-9701-aed3936eb8d6" />
+
 
 
 
