@@ -30,6 +30,9 @@ src:\ This folder contains the google colab file with an active code.
 
 <img width="394" alt="Screenshot 2025-06-10 at 12 00 34" src="https://github.com/user-attachments/assets/818fc880-fabd-408d-9070-3b3dc5d6e41a" />
 
+<img width="393" alt="Screenshot 2025-06-10 at 12 02 28" src="https://github.com/user-attachments/assets/adfa4be1-5453-4638-8118-b2f4b8b70573" />
+
+
 
 
 
