@@ -38,7 +38,9 @@ src:\ This folder contains the google colab file with an active code.
 
 ### Authors
 Dereje W. Mekonnen and Poornima 
+
 email: derewor@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
 
 
